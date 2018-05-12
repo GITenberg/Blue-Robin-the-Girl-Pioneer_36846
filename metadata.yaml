@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '38518'
     url: http://www.gutenberg.org/2009/agents/38518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36846#Blue-Robin-the-Girl-Pioneer
 gutenberg_issued: '2011-07-26'
 gutenberg_type: Text
 identifiers:
