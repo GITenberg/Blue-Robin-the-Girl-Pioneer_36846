@@ -1,0 +1,41 @@
+_repo: Blue-Robin-the-Girl-Pioneer_36846
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bickford, Nana French
+    alias: Rollins, Nana Bickford
+    gutenberg_agent_id: '37972'
+    url: http://www.gutenberg.org/2009/agents/37972
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halsey, Rena I.
+    alias: Halsey, Rena Isabelle
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '38518'
+    url: http://www.gutenberg.org/2009/agents/38518
+description: ''
+gutenberg_issued: '2011-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humanitarianism -- Juvenile fiction'
+- !lcsh 'New York (State) -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Dutch Americans -- New York (State) -- Social life and customs -- Juvenile
+  fiction'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Camps -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Poor -- Juvenile fiction'
+title: Blue Robin, the Girl Pioneer
+url: http://www.gutenberg.org/ebooks/36846
